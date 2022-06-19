@@ -6,6 +6,7 @@ public class VehicleInheritance {
 
     public int speedExt = 200;
 
+
     public void changeColor(String color){
         this.colorExtended = color;
     }
